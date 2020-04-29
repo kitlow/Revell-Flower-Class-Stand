@@ -9,3 +9,4 @@ Files:
 * Aft profile
 * Fore part STL (3mm thickness)
 * Aft part STL (3mm thickness)
+* SVG file
